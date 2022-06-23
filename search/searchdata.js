@@ -1,10 +1,12 @@
 var indexSectionsWithContent =
 {
-  0: "dimp",
+  0: "acdhimprsз",
   1: "i",
-  2: "p",
+  2: "cmr",
   3: "mp",
-  4: "d"
+  4: "di",
+  5: "acdhps",
+  6: "з"
 };
 
 var indexSectionNames =
@@ -13,7 +15,9 @@ var indexSectionNames =
   1: "classes",
   2: "files",
   3: "functions",
-  4: "variables"
+  4: "variables",
+  5: "defines",
+  6: "pages"
 };
 
 var indexSectionLabels =
@@ -22,6 +26,8 @@ var indexSectionLabels =
   1: "Classes",
   2: "Files",
   3: "Functions",
-  4: "Variables"
+  4: "Variables",
+  5: "Macros",
+  6: "Pages"
 };
 
