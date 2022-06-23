@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['architecture_5fid_0',['ARCHITECTURE_ID',['../CMakeCCompilerId_8c.html#aba35d0d200deaeb06aee95ca297acb28',1,'ARCHITECTURE_ID():&#160;CMakeCCompilerId.c'],['../CMakeCXXCompilerId_8cpp.html#aba35d0d200deaeb06aee95ca297acb28',1,'ARCHITECTURE_ID():&#160;CMakeCXXCompilerId.cpp']]]
+  ['delimiter_0',['delimiter',['../main_8cpp.html#a00947dd83a031f8286462962799c5fa4',1,'main.cpp']]]
 ];
